@@ -1,1 +1,2 @@
-A Powershell script that does math caculations.
+# Powershell Caculator
+Powershell script that does math caculations.
